@@ -1,0 +1,45 @@
+C:\Users\joann\Documents\Visual Studio 2015\Projects\TestyWF\GeneratorT\bin\Debug\GeneratorT.dll
+C:\Users\joann\Documents\Visual Studio 2015\Projects\TestyWF\GeneratorT\bin\Debug\GeneratorT.pdb
+C:\Users\joann\Documents\Visual Studio 2015\Projects\TestyWF\GeneratorT\bin\Debug\NTest.dll
+C:\Users\joann\Documents\Visual Studio 2015\Projects\TestyWF\GeneratorT\bin\Debug\Zadania.dll
+C:\Users\joann\Documents\Visual Studio 2015\Projects\TestyWF\GeneratorT\bin\Debug\NTest.pdb
+C:\Users\joann\Documents\Visual Studio 2015\Projects\TestyWF\GeneratorT\bin\Debug\Zadania.pdb
+C:\Users\joann\Documents\Visual Studio 2015\Projects\TestyWF\GeneratorT\obj\Debug\GeneratorT.csprojResolveAssemblyReference.cache
+C:\Users\joann\Documents\Visual Studio 2015\Projects\TestyWF\GeneratorT\obj\Debug\GeneratorT.dll
+C:\Users\joann\Documents\Visual Studio 2015\Projects\TestyWF\GeneratorT\obj\Debug\GeneratorT.pdb
+C:\Users\joann\Desktop\TestyWF\GeneratorT\bin\Debug\GeneratorT.dll
+C:\Users\joann\Desktop\TestyWF\GeneratorT\bin\Debug\GeneratorT.pdb
+C:\Users\joann\Desktop\TestyWF\GeneratorT\bin\Debug\NTest.dll
+C:\Users\joann\Desktop\TestyWF\GeneratorT\bin\Debug\Zadania.dll
+C:\Users\joann\Desktop\TestyWF\GeneratorT\bin\Debug\NTest.pdb
+C:\Users\joann\Desktop\TestyWF\GeneratorT\bin\Debug\Zadania.pdb
+C:\Users\joann\Desktop\TestyWF\GeneratorT\obj\Debug\GeneratorT.csprojResolveAssemblyReference.cache
+C:\Users\joann\Desktop\TestyWF\GeneratorT\obj\Debug\GeneratorT.dll
+C:\Users\joann\Desktop\TestyWF\GeneratorT\obj\Debug\GeneratorT.pdb
+C:\Users\joann\Desktop\TestyWF — kopia\GeneratorT\bin\Debug\GeneratorT.dll
+C:\Users\joann\Desktop\TestyWF — kopia\GeneratorT\bin\Debug\GeneratorT.pdb
+C:\Users\joann\Desktop\TestyWF — kopia\GeneratorT\bin\Debug\NTest.dll
+C:\Users\joann\Desktop\TestyWF — kopia\GeneratorT\bin\Debug\Zadania.dll
+C:\Users\joann\Desktop\TestyWF — kopia\GeneratorT\bin\Debug\NTest.pdb
+C:\Users\joann\Desktop\TestyWF — kopia\GeneratorT\bin\Debug\Zadania.pdb
+C:\Users\joann\Desktop\TestyWF — kopia\GeneratorT\obj\Debug\GeneratorT.csprojResolveAssemblyReference.cache
+C:\Users\joann\Desktop\TestyWF — kopia\GeneratorT\obj\Debug\GeneratorT.dll
+C:\Users\joann\Desktop\TestyWF — kopia\GeneratorT\obj\Debug\GeneratorT.pdb
+J:\KOREPETYCJE_ PROJEKTYnew\WF_Testy\1\GeneratorT\bin\Debug\GeneratorT.dll
+J:\KOREPETYCJE_ PROJEKTYnew\WF_Testy\1\GeneratorT\bin\Debug\GeneratorT.pdb
+J:\KOREPETYCJE_ PROJEKTYnew\WF_Testy\1\GeneratorT\bin\Debug\NTest.dll
+J:\KOREPETYCJE_ PROJEKTYnew\WF_Testy\1\GeneratorT\bin\Debug\Zadania.dll
+J:\KOREPETYCJE_ PROJEKTYnew\WF_Testy\1\GeneratorT\bin\Debug\NTest.pdb
+J:\KOREPETYCJE_ PROJEKTYnew\WF_Testy\1\GeneratorT\bin\Debug\Zadania.pdb
+J:\KOREPETYCJE_ PROJEKTYnew\WF_Testy\1\GeneratorT\obj\Debug\GeneratorT.csprojResolveAssemblyReference.cache
+J:\KOREPETYCJE_ PROJEKTYnew\WF_Testy\1\GeneratorT\obj\Debug\GeneratorT.dll
+J:\KOREPETYCJE_ PROJEKTYnew\WF_Testy\1\GeneratorT\obj\Debug\GeneratorT.pdb
+J:\KOREPETYCJE_ PROJEKTYnew\WF_Testy\2\GeneratorT\bin\Debug\GeneratorT.dll
+J:\KOREPETYCJE_ PROJEKTYnew\WF_Testy\2\GeneratorT\bin\Debug\GeneratorT.pdb
+J:\KOREPETYCJE_ PROJEKTYnew\WF_Testy\2\GeneratorT\bin\Debug\NTest.dll
+J:\KOREPETYCJE_ PROJEKTYnew\WF_Testy\2\GeneratorT\bin\Debug\Zadania.dll
+J:\KOREPETYCJE_ PROJEKTYnew\WF_Testy\2\GeneratorT\bin\Debug\NTest.pdb
+J:\KOREPETYCJE_ PROJEKTYnew\WF_Testy\2\GeneratorT\bin\Debug\Zadania.pdb
+J:\KOREPETYCJE_ PROJEKTYnew\WF_Testy\2\GeneratorT\obj\Debug\GeneratorT.csprojResolveAssemblyReference.cache
+J:\KOREPETYCJE_ PROJEKTYnew\WF_Testy\2\GeneratorT\obj\Debug\GeneratorT.dll
+J:\KOREPETYCJE_ PROJEKTYnew\WF_Testy\2\GeneratorT\obj\Debug\GeneratorT.pdb

@@ -1,0 +1,35 @@
+C:\Users\joann\Documents\Visual Studio 2015\Projects\TestyWF\NTest\bin\Debug\NTest.dll
+C:\Users\joann\Documents\Visual Studio 2015\Projects\TestyWF\NTest\bin\Debug\NTest.pdb
+C:\Users\joann\Documents\Visual Studio 2015\Projects\TestyWF\NTest\bin\Debug\Zadania.dll
+C:\Users\joann\Documents\Visual Studio 2015\Projects\TestyWF\NTest\bin\Debug\Zadania.pdb
+C:\Users\joann\Documents\Visual Studio 2015\Projects\TestyWF\NTest\obj\Debug\NTest.csprojResolveAssemblyReference.cache
+C:\Users\joann\Documents\Visual Studio 2015\Projects\TestyWF\NTest\obj\Debug\NTest.dll
+C:\Users\joann\Documents\Visual Studio 2015\Projects\TestyWF\NTest\obj\Debug\NTest.pdb
+C:\Users\joann\Desktop\TestyWF\NTest\bin\Debug\NTest.dll
+C:\Users\joann\Desktop\TestyWF\NTest\bin\Debug\NTest.pdb
+C:\Users\joann\Desktop\TestyWF\NTest\bin\Debug\Zadania.dll
+C:\Users\joann\Desktop\TestyWF\NTest\bin\Debug\Zadania.pdb
+C:\Users\joann\Desktop\TestyWF\NTest\obj\Debug\NTest.csprojResolveAssemblyReference.cache
+C:\Users\joann\Desktop\TestyWF\NTest\obj\Debug\NTest.dll
+C:\Users\joann\Desktop\TestyWF\NTest\obj\Debug\NTest.pdb
+C:\Users\joann\Desktop\TestyWF — kopia\NTest\bin\Debug\NTest.dll
+C:\Users\joann\Desktop\TestyWF — kopia\NTest\bin\Debug\NTest.pdb
+C:\Users\joann\Desktop\TestyWF — kopia\NTest\bin\Debug\Zadania.dll
+C:\Users\joann\Desktop\TestyWF — kopia\NTest\bin\Debug\Zadania.pdb
+C:\Users\joann\Desktop\TestyWF — kopia\NTest\obj\Debug\NTest.csprojResolveAssemblyReference.cache
+C:\Users\joann\Desktop\TestyWF — kopia\NTest\obj\Debug\NTest.dll
+C:\Users\joann\Desktop\TestyWF — kopia\NTest\obj\Debug\NTest.pdb
+J:\KOREPETYCJE_ PROJEKTYnew\WF_Testy\1\NTest\bin\Debug\NTest.dll
+J:\KOREPETYCJE_ PROJEKTYnew\WF_Testy\1\NTest\bin\Debug\NTest.pdb
+J:\KOREPETYCJE_ PROJEKTYnew\WF_Testy\1\NTest\bin\Debug\Zadania.dll
+J:\KOREPETYCJE_ PROJEKTYnew\WF_Testy\1\NTest\bin\Debug\Zadania.pdb
+J:\KOREPETYCJE_ PROJEKTYnew\WF_Testy\1\NTest\obj\Debug\NTest.csprojResolveAssemblyReference.cache
+J:\KOREPETYCJE_ PROJEKTYnew\WF_Testy\1\NTest\obj\Debug\NTest.dll
+J:\KOREPETYCJE_ PROJEKTYnew\WF_Testy\1\NTest\obj\Debug\NTest.pdb
+J:\KOREPETYCJE_ PROJEKTYnew\WF_Testy\2\NTest\bin\Debug\NTest.dll
+J:\KOREPETYCJE_ PROJEKTYnew\WF_Testy\2\NTest\bin\Debug\NTest.pdb
+J:\KOREPETYCJE_ PROJEKTYnew\WF_Testy\2\NTest\bin\Debug\Zadania.dll
+J:\KOREPETYCJE_ PROJEKTYnew\WF_Testy\2\NTest\bin\Debug\Zadania.pdb
+J:\KOREPETYCJE_ PROJEKTYnew\WF_Testy\2\NTest\obj\Debug\NTest.csprojResolveAssemblyReference.cache
+J:\KOREPETYCJE_ PROJEKTYnew\WF_Testy\2\NTest\obj\Debug\NTest.dll
+J:\KOREPETYCJE_ PROJEKTYnew\WF_Testy\2\NTest\obj\Debug\NTest.pdb
